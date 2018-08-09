@@ -1,2 +1,5 @@
-# php-stemmer-slovenian
-PHP5 native implementation of Snowball stemmer for Slovenian language
+# PHP stemmer for Slovenian language, based on wamania/php-stemmer
+Extension for php stemmer - https://github.com/wamania/php-stemmer
+
+
+# 
